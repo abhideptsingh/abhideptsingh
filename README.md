@@ -1,4 +1,4 @@
-# Hi, I'm Abhidept Singh 👋
+# Namaskaram, I'm Abhidept Singh 👋
 
 ### Software Test Engineer | Manual Testing | Automation Testing | API Testing | Performance Testing
 
