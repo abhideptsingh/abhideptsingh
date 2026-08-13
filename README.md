@@ -187,7 +187,7 @@ My goal is to contribute to building reliable software by combining Manual Testi
 abhideptsingh1@gmail.com
 
 💼 LinkedIn:
-https://www.linkedin.com/in/abhidept-singh-23821b192/
+https://www.linkedin.com/in/abhidept-singh/
 
 🌐 GitHub:
 https://github.com/abhideptsingh
